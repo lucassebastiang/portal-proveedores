@@ -1,5 +1,12 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Portal de proveedores" width="100%">
+</p>
+
 # Portal de proveedores · homologación, documentación, facturas y firmas
 
+![desplegado](https://img.shields.io/badge/estado-desplegado-1F6FEB?style=flat-square) ![caso de estudio](https://img.shields.io/badge/caso%20de%20estudio-7C6CF0?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=flat-square&logo=minio&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+
+> [!NOTE]
 > **Caso de estudio.** Aplicación desarrollada para un grupo de residencias. El código de producción es privado: aquí están el problema, la arquitectura, las decisiones técnicas y [fragmentos de código reescritos](snippets/) que ilustran las piezas más interesantes.
 
 ## El problema
